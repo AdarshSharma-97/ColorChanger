@@ -1,5 +1,7 @@
 # Color Changer App
 
+Netlify Link https://colorchangerwebapp.netlify.app/
+
 This project is a simple web application that allows users to change the background color of the page by selecting a color from a predefined list. It is built using HTML, CSS, and JavaScript and is ideal for beginners to learn basic DOM manipulation and event handling in JavaScript.
 
 Features
